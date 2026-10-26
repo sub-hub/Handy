@@ -443,6 +443,14 @@
         "label": "Avisos sonors",
         "description": "Reprodueix un so quan s'inicia i s'atura l'enregistrament"
       },
+      "pauseWhileRecording": {
+        "label": "Pausa durant l'enregistrament",
+        "description": "Posa en pausa la reproducció multimèdia durant l'enregistrament"
+      },
+      "playAfterRecording": {
+        "label": "Reprèn després de l'enregistrament",
+        "description": "Reprèn la reproducció multimèdia si Handy l'ha posat en pausa"
+      },
       "outputDevice": {
         "title": "Dispositiu de sortida",
         "description": "Selecciona el dispositiu de sortida d'àudio preferit per als avisos sonors",

@@ -443,6 +443,14 @@
         "label": "Umpan Balik Audio",
         "description": "Putar suara saat perekaman dimulai dan dihentikan"
       },
+      "pauseWhileRecording": {
+        "label": "Jeda Saat Merekam",
+        "description": "Jeda pemutaran media selama perekaman"
+      },
+      "playAfterRecording": {
+        "label": "Lanjutkan Setelah Merekam",
+        "description": "Lanjutkan pemutaran media jika Handy menjedanya"
+      },
       "outputDevice": {
         "title": "Perangkat Keluaran",
         "description": "Pilih perangkat keluaran audio yang Anda inginkan untuk suara umpan balik",
